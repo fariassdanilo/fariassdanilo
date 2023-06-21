@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Danilo Farias ✌️
 
-- Hoje estudo frond end
-- Ainda não tive minha primeira oportunidade de emprego na área, porem estou criando meu portifolio
+- Desenvolvedor Front-end
+- Me siga para acompanhar meus projetos!
 - Pronouns: ele/dele
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Fariassdanilo&show_icons=true&theme=radical)
