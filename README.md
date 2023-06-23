@@ -2,7 +2,7 @@
 
 - Desenvolvedor Front-end
 - Me siga para acompanhar meus projetos!
-- Pronouns: ele/dele
+- Pronomes: ele/dele
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Fariassdanilo&show_icons=true&theme=radical)
 
