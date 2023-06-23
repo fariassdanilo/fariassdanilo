@@ -15,6 +15,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <div><br/>
   
-- Sempre gostei de tecnologia, da internet e de jogos, sonho em um dia conseguir impactar possitivamente a vida das pessoas através da programação.
+- Sempre gostei de tecnologia, da internet e de jogos, sonho em um dia conseguir impactar positivamente a vida das pessoas através da programação.
   
 - ✉️contato: danilo.fariass@hotmail.com
